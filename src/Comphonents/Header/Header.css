@@ -1,0 +1,42 @@
+.employee-container h1{
+    color: gray;
+    text-align: center;
+}
+*{margin: 5; padding: 0;}
+#addemployee{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+    padding: 3px;
+    margin: 5px;
+}
+.employee-container{
+    width: 900px;
+    margin: auto;
+    border: 2px solid lightgray;
+    box-shadow: 5px 5px 10px gray;
+    height: 300px;
+
+}
+#employeelist{
+    color: white ;
+    }
+.employee-container ul{
+padding: 5px;
+margin: 5px;
+background-color: gray;
+width: 800px;
+
+}
+.employee-container ul li{
+list-style-type: none;
+display: inline;
+
+}
+.employee-container ul li a{
+    text-decoration: none;
+    margin: 10px;
+color: white;
+padding: 15px;
+}

@@ -1,0 +1,16 @@
+.navcontainer a{
+text-decoration: none;
+padding: 4px;
+margin: 20px;
+color: white;
+
+}
+.navcontainer {
+    background-color: gray;
+text-align: center;
+
+}
+.navcontainer a:hover{
+    background-color: lightgray;
+    color: black;
+}

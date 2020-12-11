@@ -1,0 +1,36 @@
+.formContainer{
+    width: 900px;
+    margin: auto;
+    display: block;
+    border: 2px solid lightgray;
+    box-shadow: 5px 5px 10px gray;
+}
+.MainForm{
+    padding: 15px;
+}
+.form-group{
+    padding-bottom: 15px;
+}
+.MainForm label{
+    display: block;
+}
+.MainForm input{
+    padding: 5px;
+    width: 90%;
+}
+.formContainer h1{
+    text-align: center;
+    color:gray;
+}
+.savebtn{
+    padding: 5px;
+    margin: 5px;
+    background-color: green;
+    color: white;
+}
+.cancebtn{
+    padding: 5px;
+    margin: 5px;
+    background-color: red;
+    color: black;
+}
